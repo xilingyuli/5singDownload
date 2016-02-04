@@ -1,0 +1,8 @@
+F:\Code\C#\Download5sing_Clear\Download5sing_Clear\bin\Release\Download5sing_Clear.exe.config
+F:\Code\C#\Download5sing_Clear\Download5sing_Clear\bin\Release\Download5sing_Clear.exe
+F:\Code\C#\Download5sing_Clear\Download5sing_Clear\bin\Release\Download5sing_Clear.pdb
+F:\Code\C#\Download5sing_Clear\Download5sing_Clear\obj\Release\Download5sing_Clear.Form1.resources
+F:\Code\C#\Download5sing_Clear\Download5sing_Clear\obj\Release\Download5sing_Clear.Properties.Resources.resources
+F:\Code\C#\Download5sing_Clear\Download5sing_Clear\obj\Release\Download5sing_Clear.csproj.GenerateResource.Cache
+F:\Code\C#\Download5sing_Clear\Download5sing_Clear\obj\Release\Download5sing_Clear.exe
+F:\Code\C#\Download5sing_Clear\Download5sing_Clear\obj\Release\Download5sing_Clear.pdb
